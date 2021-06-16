@@ -1,2 +1,2 @@
 # roboworld
-[gifs]http://ami.responsivedesign.is/?url=http://localhost:3000/
+[gifs]https://github.com/niinortey12/roboworld/blob/master/roboworld.gif
